@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmattermost_webapp=self.webpackChunkmattermost_webapp||[]).push([[4927],{77308(e,t,n){n.r(t),n.d(t,{default:()=>o,normalizePluginIcon:()=>c.k});var a=n(37270),s=n(7380),c=n(2600);const o=(0,a.connect)(function(e){return{isMobileView:(0,s.w3)(e)}})(c.A)}}]);
+//# sourceMappingURL=4927.21c5299fc75a285463b4.js.map

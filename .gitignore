@@ -1,0 +1,6 @@
+server/bin/
+server/data/
+server/logs/
+server/config/config.json
+*.log
+.env

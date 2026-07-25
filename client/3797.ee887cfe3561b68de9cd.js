@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmattermost_webapp=self.webpackChunkmattermost_webapp||[]).push([[3797],{73797(e,t,a){a.r(t),a.d(t,{default:()=>u});var c=a(36418),n=a(37270),o=a(65952),r=a(26812),s=a(81444);const l=()=>{const e=(0,n.useSelector)(o.eH);return e?c.createElement(r.A,{location:s.Hc.CENTER,rootId:"",channelId:e}):null},u=c.memo(l)}}]);
+//# sourceMappingURL=3797.ee887cfe3561b68de9cd.js.map
